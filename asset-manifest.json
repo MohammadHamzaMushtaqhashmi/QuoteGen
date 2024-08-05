@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuoteGen/static/css/main.85c3155e.css",
+    "main.js": "/QuoteGen/static/js/main.a09d3cc6.js",
+    "static/js/453.f9c040e8.chunk.js": "/QuoteGen/static/js/453.f9c040e8.chunk.js",
+    "index.html": "/QuoteGen/index.html",
+    "main.85c3155e.css.map": "/QuoteGen/static/css/main.85c3155e.css.map",
+    "main.a09d3cc6.js.map": "/QuoteGen/static/js/main.a09d3cc6.js.map",
+    "453.f9c040e8.chunk.js.map": "/QuoteGen/static/js/453.f9c040e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c3155e.css",
+    "static/js/main.a09d3cc6.js"
+  ]
+}
